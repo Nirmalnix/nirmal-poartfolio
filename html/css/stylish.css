@@ -1,0 +1,14 @@
+body{
+    font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.banner{
+    background-image: url(/html/media/desk-concept-frame-with-items.jpg);
+    padding:230px;
+    background-size: cover;
+}
+.navbar
+{
+background-color: rgb(253, 253, 253);
+}
