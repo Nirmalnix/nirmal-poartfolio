@@ -4,11 +4,11 @@ body{
         font-style: normal;
 }
 .banner{
-    background-image: url('../media/desk-concept-frame-with-items.jpg');
+    background-image: url(./media/desk-concept-frame-with-items.jpg);
     padding:230px;
     background-size: cover;
 }
 .navbar
 {
 background-color: rgb(253, 253, 253);
-}
+} why backround image cannot show
