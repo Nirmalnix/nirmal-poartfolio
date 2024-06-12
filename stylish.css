@@ -4,7 +4,7 @@ body{
         font-style: normal;
 }
 .banner{
-    background-image: url(/html/media/desk-concept-frame-with-items.jpg);
+    background-image: url('../media/desk-concept-frame-with-items.jpg');
     padding:230px;
     background-size: cover;
 }
